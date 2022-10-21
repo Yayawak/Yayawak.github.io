@@ -28,7 +28,7 @@
 - R (stat)
 - matlab
 - frontend (ยังกาก ไม่ใช่แนว)
-  - ![](https://img.shields.io/badge/-html-orange)
+  ![](https://img.shields.io/badge/-html-orange)
   - css
   - javascript
      - react
