@@ -3,6 +3,11 @@
 - รักการเรียนรู้สิ่งใหม่ๆเป็นกิจลักษณะ
 - ขอบเล่นสเก็ตบอร์ด
 
+
+```
+![Visitor Count](https : //profile-counter.glitch.me/{Yayawak}/count.svg)
+```
+
 ## what is branding me ?
 1. [42 ecole](https://github.com/Yayawak/42Bangkok)
 2. <a href="https://github.com/Yayawak/kmitl" style="backgrond-color:orange; text-decoration: none;">kmitl</a>
