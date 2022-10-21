@@ -3,6 +3,7 @@
 - ขอบเล่นสเก็ตบอร์ด
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+data+science!; Watch+me!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 ## what is branding me ?
