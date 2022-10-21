@@ -3,8 +3,10 @@
 - รักการเรียนรู้สิ่งใหม่ๆเป็นกิจลักษณะ
 - ขอบเล่นสเก็ตบอร์ด
 
+## what is branding me ?
+1. 42 ecole : <a src="https://github.com/Yayawak/42Bangkok"></a>
 # สิ่งที่ผมสนใจตอนนี้
-- C
+- C 
 - Vim & Vim scipt
 - shell 
 - data sturcture & algorithms
