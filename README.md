@@ -4,7 +4,8 @@
 - ขอบเล่นสเก็ตบอร์ด
 
 ## what is branding me ?
-1. 42 ecole : <a src="https://github.com/Yayawak/42Bangkok"></a>
+1. [42 ecole](https://github.com/Yayawak/42Bangkok)
+2. 
 # สิ่งที่ผมสนใจตอนนี้
 - C 
 - Vim & Vim scipt
