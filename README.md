@@ -2,7 +2,7 @@
 - รักการเรียนรู้สิ่งใหม่ๆเป็นกิจลักษณะ
 - ขอบเล่นสเก็ตบอร์ด
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yayawak)](https://github.com/Yayawak/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yayawak)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16AC20&center=true&vCenter=true&width=435&lines=I+love+data+science;Watch+me+!" alt="Typing SVG" /></a>
 
