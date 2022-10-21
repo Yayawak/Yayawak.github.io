@@ -4,9 +4,8 @@
 - ขอบเล่นสเก็ตบอร์ด
 
 
-```
+
 ![Visitor Count](https : //profile-counter.glitch.me/Yayawak/count.svg)
-```
 
 ## what is branding me ?
 1. [42 ecole](https://github.com/Yayawak/42Bangkok)
