@@ -5,7 +5,7 @@
 
 
 ```
-![Visitor Count](https : //profile-counter.glitch.me/{Yayawak}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/Yayawak/count.svg)
 ```
 
 ## what is branding me ?
