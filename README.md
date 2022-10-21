@@ -2,9 +2,7 @@
 - รักการเรียนรู้สิ่งใหม่ๆเป็นกิจลักษณะ
 - ขอบเล่นสเก็ตบอร์ด
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+love+data+science;Watch+me)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16AC20&center=true&vCenter=true&width=435&lines=I+love+data+science;Watch+me+!" alt="Typing SVG" /></a>
 
 ## what is branding me ?
 1. [42 ecole](https://github.com/Yayawak/42Bangkok)
