@@ -6,9 +6,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16AC20&center=true&vCenter=true&width=435&lines=I+love+data+science;Watch+me+!" alt="Typing SVG" /></a>
 
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=caceresenzo&theme=default&hide_border=false&date_format=Y/m/j&properties=background" alt="caceresenzo" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Caceresenzo&show_icons=true&include_all_commits=true&count_private=true" alt="caceresenzo" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caceresenzo&layout=compact" alt="caceresenzo" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yayawak&theme=default&hide_border=false&date_format=Y/m/j&properties=background" alt="yayawak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yayawak&show_icons=true&include_all_commits=true&count_private=true" alt="caceresenzo" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayawak&layout=compact" alt="caceresenzo" /> </p>
 
 
 ## what is branding me ?
