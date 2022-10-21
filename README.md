@@ -5,7 +5,6 @@
 
 
 
-![Visitor Count](https : //profile-counter.glitch.me/Yayawak/count.svg)
 
 ## what is branding me ?
 1. [42 ecole](https://github.com/Yayawak/42Bangkok)
@@ -60,3 +59,11 @@
     - tower defense (kingdom rush like)
   - 3d
     
+    
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yayawak&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayawak&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
