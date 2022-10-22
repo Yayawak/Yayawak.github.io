@@ -1,10 +1,8 @@
 # รักการเรียนรู้สิ่งใหม่ๆเป็นกิจลักษณะ
 
-<div>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yayawak&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayawak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yayawak&theme=default&hide_border=false&date_format=Y/m/j&properties=background" alt="yayawak" />
-</div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16AC20&center=true&vCenter=true&width=435&lines=I+love+data+science;Watch+me+!" alt="Typing SVG" /></a>
 
