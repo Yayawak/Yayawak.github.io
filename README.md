@@ -2,12 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yayawak&show_icons=true&theme=merko)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yayawak&theme=default&hide_border=false&date_format=Y/m/j&properties=background" alt="yayawak" />
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16AC20&center=true&vCenter=true&width=435&lines=I+love+data+science;Watch+me+!" alt="Typing SVG" /></a>
-
-
-
-
 ## what is branding me ?
 1. [42 ecole](https://github.com/Yayawak/42Bangkok)
 2. <a href="https://github.com/Yayawak/kmitl" style="backgrond-color:orange; text-decoration: none;">kmitl</a>
@@ -88,14 +83,13 @@
 
 
 
-<!-- <p align="center">
+<p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yayawak&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayawak&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayawak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
- -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayawak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
