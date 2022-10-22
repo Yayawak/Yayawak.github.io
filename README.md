@@ -92,9 +92,10 @@
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yayawak&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yayawak&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayawak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yayawak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
  -->
 
